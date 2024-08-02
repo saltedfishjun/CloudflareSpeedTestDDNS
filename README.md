@@ -1,4 +1,4 @@
-# 这个是docker容器内部文件，在安装[lee1080](https://github.com/lee1080/CloudflareSpeedTestDDNS0)大佬的docker容器时使用 #
+# 这个是docker容器内部文件，在安装[lee1080](https://github.com/lee1080/CloudflareSpeedTestDDNS/tree/main)大佬的docker容器时使用 #
 ## 更新支持同一个域名的ipv4和ipv6共存`域名托管到CloudFlare`
 ## 使用方式
 1. 正常安装使用docker进行部署，部署时把映射容器文件目录修改为/app,
