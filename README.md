@@ -3,9 +3,6 @@
 ## 使用方式
 1. 正常安装使用docker进行部署，部署时把映射容器文件目录修改为/app,
 2. 将本项目全部文件放入你部署docker时映射的宿主机的目录并按要求修改`config\config.conf`文件
->可以只放入部分文件
->修改过的文件为`start.sh` `cf_ddns.sh`
->添加文件为 `cf_ddns\cf_ddns_cloudflare_multiple.sh`
 # CloudflareSpeedTestDDNS
 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
 
